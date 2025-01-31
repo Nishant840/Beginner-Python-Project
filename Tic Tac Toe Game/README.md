@@ -30,12 +30,11 @@ A simple implementation of the classic Tic-Tac-Toe game in Python. This game all
 
 ```
 Player 1 (X) | Player 2 (O)
-
-   |   |   
------------
-   |   |   
------------
-   |   |   
+  |   |  
+--|---|---
+  |   | 
+--|---|---
+  |   |   
 ```
 
 - Player 1 enters `1 1` to place 'X' in the top-left corner.
